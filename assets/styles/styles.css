@@ -12,7 +12,7 @@ footer {
     background-color: #00a2c6;
 }
 
-nav a {
+nav ul li a {
     font-size: 18px;
     font-weight: 400;
     text-decoration: none;
