@@ -42,3 +42,7 @@ nav a:hover {
     object-fit: cover;
     object-position: center;
 }
+
+.profile.img {
+    width: 200px;
+}
