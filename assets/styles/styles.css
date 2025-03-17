@@ -22,7 +22,7 @@ nav ul li a {
     color: white;
 }
 
-nav a:hover {
+nav ul li a:hover {
     font-weight: bold;
 }
 
@@ -57,7 +57,7 @@ nav a:hover {
     color: white;
 }
 
-nav li {
+nav ul li {
     display: inline;
     list-style-type: nono;
     margin-right: 20px;
