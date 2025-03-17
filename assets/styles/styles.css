@@ -14,7 +14,7 @@ footer {
     font-weight: bold;
 }
 
-nav a {
+nav ul li a {
     font-size: 18px;
     font-weight: 400;
     text-decoration: none;
