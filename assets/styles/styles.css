@@ -52,14 +52,14 @@ nav ul li a:hover {
 .jumbotron {
     font-size: 20px;
     padding: 60px;
-    background-color: ##00c8eb;
+    background-color: #00c8eb;
     text-align: center;
     color: white;
 }
 
 nav ul li {
     display: inline;
-    list-style-type: nono;
+    list-style-type: none;
     margin-right: 20px;
 }
 
