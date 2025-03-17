@@ -50,4 +50,7 @@ nav a:hover {
 .card {
     box-shadow: 15px 15px 5px 0px rgba(0,0,0,0.75);
     border-radius: 5px;
+
+    padding: 20px;
+    margin-top: 20px;
 }
